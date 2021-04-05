@@ -1,0 +1,39 @@
+body {
+
+  text-align: center;
+  background-color: #A09694;
+  
+}
+
+h1{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 45px;
+  background-color: #F0AEA1;
+ 
+}
+
+#img-caption{
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  text-align: center;
+  font-family: tahoma ;
+  max-width: 700px;
+  margin: 0 auto 30px;
+  
+}
+
+#image{
+ 
+width: 20%;
+height: auto;
+max-width: 100%;
+margin-left: auto;
+margin-right: auto;
+display: block;
+
+}
+
